@@ -1,4 +1,4 @@
-<h1>Hi, I'm Santiago 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1>Hi, I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg"
@@ -9,6 +9,6 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,discord,github,express,django,postgres,mongo,git,vscode,docker,aws,postman,py,react,kalilunux,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,discord,github,express,django,postgres,mongo,git,vscode,docker,aws,postman,py,react,linux&perline=10"  />
 </p>
 <br />
